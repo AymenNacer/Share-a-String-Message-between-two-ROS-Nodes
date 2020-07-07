@@ -1,8 +1,7 @@
 # Share-a-String-Message-between-Two-ROS-Nodes
 
 # Create a ROS Workspace
-1- create workspace folder called Aymen_ws
-
+1- Create workspace folder called Aymen_ws
     * mkdir Aymen_ws
     * cd Aymen_ws/
     
@@ -11,7 +10,6 @@
     
 3- initialize the folder as workspace, inside src type
     * catkin_init_workspace
-    
   Cmakefile.txt created in src (ready to compile)
     
 4- to compile workspace return back to Aymen_ws and type :
@@ -21,9 +19,8 @@
  Build, devel, src should be created in Aymen_ws
 # Create a New Package
 1- to create package go to src and type: 
-
     * catkin_create_pkg Aymen_package rospy roscpp std_msgs
-    
+   
   Cmakelist.txt, include, package.xml,	src should be created in Aymen_package
   
 2- to compile same go to Aymen_ws and type:
