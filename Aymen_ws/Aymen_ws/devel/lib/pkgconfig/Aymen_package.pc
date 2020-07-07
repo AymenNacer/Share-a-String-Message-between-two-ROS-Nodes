@@ -1,8 +1,0 @@
-prefix=/home/aymen/Documents/Aymen_ws/devel
-
-Name: Aymen_package
-Description: Description of Aymen_package
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
