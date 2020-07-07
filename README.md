@@ -12,6 +12,7 @@
     
 3- initialize the folder as workspace, inside src type
 
+    * cd src/
     * catkin_init_workspace
     
   Cmakefile.txt created in src (ready to compile)
