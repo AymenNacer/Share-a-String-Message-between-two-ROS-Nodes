@@ -1,0 +1,2 @@
+Aymen_package
+-DCATKIN_DEVEL_PREFIX=/home/aymen/Documents/Aymen_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aymen/Documents/Aymen_ws/install -G Unix Makefiles
