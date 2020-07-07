@@ -38,6 +38,7 @@
 
     * cd /scripts
 Copy and paste the python files inside 'scripts'
+
 2- To run them go to Aymen_ws and type
 
     * source devel/setup.bash
