@@ -1,5 +1,5 @@
 # Share-a-String-Message-between-Two-ROS-Nodes
-
+(Smart Methods Internship) 
 # Create a ROS Workspace
 1- Create workspace folder called Aymen_ws
 
